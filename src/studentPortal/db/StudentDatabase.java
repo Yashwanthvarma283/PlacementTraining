@@ -1,7 +1,7 @@
-package db;
+package studentPortal.db;
 
 import java.util.*;
-import models.*;
+import studentPortal.models.*;
 
 public class StudentDatabase {
 

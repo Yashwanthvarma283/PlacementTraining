@@ -1,4 +1,4 @@
-package main;
+package studentPortal.main;
 
 import java.util.Scanner;
 

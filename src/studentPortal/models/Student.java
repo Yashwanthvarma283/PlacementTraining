@@ -1,4 +1,4 @@
-package models;
+package studentPortal.models;
 
 public class Student {
     int id;

@@ -1,7 +1,6 @@
-package services;
-import db.*;
-import models.*;
-import main.*;
+package studentPortal.services;
+import studentPortal.db.*;
+import studentPortal.models.*;
 
 import java.util.Scanner;
 
