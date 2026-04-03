@@ -7,7 +7,6 @@ class UsingInterface implements Runnable{
         count++;
     }
 }
-
 public class HelloWorld {
     public static void main(String[] args) throws InterruptedException {
         UsingInterface obj=new UsingInterface();
